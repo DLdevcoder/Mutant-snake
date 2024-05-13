@@ -6,6 +6,7 @@ Mỗi con mồi mà bạn ăn được, con rắn của bạn sẽ trở nên m�
 Với cấp độ khó ngày càng tăng, trò chơi không chỉ là một thử thách về tốc độ và phản xạ, mà còn là một thử thách về sự tinh tế và chiến lược. Bạn sẽ phải đánh bại chính mình và áp dụng mọi khả năng của mình để trở thành vua của thế giới rắn săn mồi này.
 Cùng những chế độ mới lạ, độc đáo đi kèm với đa dạng các tính năng, trò chơi sẽ thú vị hơn bao giờ hết.
 Vậy, bạn có đủ can đảm để chiến thắng và trở thành bá chủ của thế giới rắn săn mồi này không? Hãy bước vào cuộc phiêu lưu và khám phá!
+
 II. Các chức năng của trò chơi
 Di chuyển bằng các nút W,A,S,D.
 p để dừng trò chơi, q để quay lại menu khi đang chơi
