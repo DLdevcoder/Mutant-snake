@@ -8,7 +8,7 @@ Khi bước vào trò chơi, bạn sẽ bị hấp dẫn bởi cảm giác hồi
 
 Mỗi con mồi mà bạn ăn được, con rắn của bạn sẽ trở nên mạnh mẽ và dài ra, nhưng cũng đồng nghĩa với việc tăng khó khăn. Bạn sẽ phải di chuyển nhanh nhưng cũng phải cân nhắc mọi bước đi cẩn thận, tránh va chạm vào bất kỳ chướng ngại vật nào, bởi mỗi sự va chạm có thể đưa bạn đến cái chết.
 
-Với cấp độ khó ngày càng tăng, trò chơi không chỉ là một thử thách về tốc độ và phản xạ, mà còn là một thử thách về sự tinh tế và chiến lược. Bạn sẽ phải đánh bại chính mình và áp dụng mọi khả năng của mình để trở thành vua của thế giới rắn săn mồi này.
+Với cấp độ khó ngày càng tăng, trò chơi không chỉ là một thử thách về tốc độ và phản xạ, mà còn là một thử thách về sự tinh tế và chiến lược. Bạn sẽ phải đánh bại chính mình và áp dụng mọi khả năng của mình để trở thành vua của thế giới đầy thú vị này.
 
 Cùng những chế độ mới lạ, độc đáo đi kèm với đa dạng các tính năng, trò chơi sẽ thú vị hơn bao giờ hết.
 
