@@ -48,3 +48,11 @@ Thư viện:  https://paste.ubuntu.com/p/tqr239C4df/
 Âm thanh :https://www.youtube.com/watch?v=SO18eVlFrw8
 
 Hỗ trợ : Chat gpt
+
+
+V. Cách tải
+B1: Tải các file đã được đăng
+
+B2: cài đặt các đường dẫn liên kết các file đã tải với nhau
+
+B3: Chạy chương trình sau khi đã thiết lập xong.
