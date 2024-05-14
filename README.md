@@ -24,3 +24,14 @@ p để dừng trò chơi, q để quay lại menu khi đang chơi.
 Menu đơn giản.
 
 Đa dạng chế độ,lối chơi cho người dùng thỏa sức trải nghiệm.
+
+III.Các kĩ năng lập trình được áp dụng
+Đọc, ghi file.
+Animation.
+Mảng.
+Áp dụng nguyên tắc clean code...
+
+
+IV. Nguồn tham khảo
+Thư viện:
+https://paste.ubuntu.com/p/tqr239C4df/
