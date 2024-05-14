@@ -25,10 +25,15 @@ Menu đơn giản.
 
 Đa dạng chế độ,lối chơi cho người dùng thỏa sức trải nghiệm.
 
+
 III.Các kĩ năng lập trình được áp dụng
+
 Đọc, ghi file.
+
 Animation.
+
 Mảng.
+
 Áp dụng nguyên tắc clean code...
 
 
