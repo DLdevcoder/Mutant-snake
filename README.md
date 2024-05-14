@@ -39,4 +39,4 @@ Mảng.
 
 IV. Nguồn tham khảo
 
-Thư viện:   https://paste.ubuntu.com/p/tqr239C4df/
+Thư viện:  https://paste.ubuntu.com/p/tqr239C4df/
