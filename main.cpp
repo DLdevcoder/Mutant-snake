@@ -261,7 +261,7 @@ void xuliran(int x[], int y[], int& xo, int& yo, int& xqua, int& yqua, int& x10,
 	xoadi10(x10, y10, dem10);
 	/**no10 ngan an qua10 xong k bi tao qua10 tiep
 	dem10 ngan k tao qua lien tuc trong moi buoc di chuyen
-	xoa10 de xoa qua trong 50 buoc**/
+	xoa10 de xoa qua trong 100 buoc**/
 	if (anqua(x, y, xqua, yqua) == false && anqua(x, y, x10, y10) == false)
 	{
 		xoa(x, dai - 1);
