@@ -12,7 +12,7 @@ Với cấp độ khó ngày càng tăng, trò chơi không chỉ là một th�
 
 Cùng những chế độ mới lạ, độc đáo đi kèm với đa dạng các tính năng, trò chơi sẽ thú vị hơn bao giờ hết.
 
-Vậy, bạn có đủ can đảm để chiến thắng và trở thành bá chủ của thế giới rắn săn mồi này không? Hãy bước vào cuộc phiêu lưu và khám phá!
+Vậy, bạn có đủ can đảm để chiến thắng và trở thành bá chủ của thế giới game hấp dẫn này không? Hãy bước vào cuộc phiêu lưu và khám phá!
 
 
 II. Các chức năng của trò chơi
@@ -21,9 +21,13 @@ Di chuyển bằng các nút W,A,S,D.
 
 p để dừng trò chơi, q để quay lại menu khi đang chơi.
 
-Menu đơn giản.
+Menu bắt mắt.
+
+Giao diện thân thiện.
 
 Đa dạng chế độ,lối chơi cho người dùng thỏa sức trải nghiệm.
+
+Tính năng đa dạng.
 
 
 III.Các kĩ năng lập trình được áp dụng
@@ -34,9 +38,10 @@ Animation.
 
 Mảng.
 
-Áp dụng nguyên tắc clean code...
+Áp dụng nguyên tắc clean code, ...
 
 
 IV. Nguồn tham khảo
 
 Thư viện:  https://paste.ubuntu.com/p/tqr239C4df/
+Youtube
