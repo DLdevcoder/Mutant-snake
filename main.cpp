@@ -232,6 +232,7 @@ void xoaran(int x[], int y[])
 }
 void them(int a[], int moi)
 {
+	//them dau ran
 	for (int i = dai; i > 0; i--)
 	{
 		a[i] = a[i - 1];
@@ -240,6 +241,7 @@ void them(int a[], int moi)
 	dai++;
 }
 void xoa(int a[], int bo) {
+	//bo phan duoi ran
 	for (int i = bo; i < dai; i++)
 	{
 		a[i] = a[i + 1];
@@ -257,6 +259,9 @@ void xuliran(int x[], int y[], int& xo, int& yo, int& xqua, int& yqua, int& x10,
 		xoa10 = dem;
 	}
 	xoadi10(x10, y10, dem10);
+	/**no10 ngan an qua10 xong k bi tao qua10 tiep
+	dem10 ngan k tao qua lien tuc trong moi buoc di chuyen
+	xoa10 de xoa qua trong 50 buoc**/
 	if (anqua(x, y, xqua, yqua) == false && anqua(x, y, x10, y10) == false)
 	{
 		xoa(x, dai - 1);
@@ -906,6 +911,7 @@ void snakecolor() {
 			cout << " ";
 			gotoxy(xd + 6, yd);
 			cout << " ";
+			//xoa mui ten cu
 			phim = _getch();
 			if (phim == 72) {
 				yd -= 2;
@@ -921,6 +927,7 @@ void snakecolor() {
 				yd = 6;
 			}
 			gotoxy(xd - 15, yd);
+			//tao mui ten moi
 			cout << p1;
 			gotoxy(xd + 6, yd);
 			cout << p2;
@@ -962,6 +969,7 @@ void Map() {
 			cout << " ";
 			gotoxy(xd + 6, yd);
 			cout << " ";
+			//xoa mui ten cu
 			phim = _getch();
 			if (phim == 72) {
 				yd -= 2;
@@ -977,6 +985,7 @@ void Map() {
 				yd = 6;
 			}
 			gotoxy(xd - 15, yd);
+			//tao mui ten moi
 			cout << p1;
 			gotoxy(xd + 6, yd);
 			cout << p2;
@@ -1055,6 +1064,7 @@ void setting() {
 			cout << " ";
 			gotoxy(xd + 6, yd);
 			cout << " ";
+			//xoa mui ten cu
 			phim = _getch();
 			if (phim == 72) {
 				yd -= 2;
@@ -1070,6 +1080,7 @@ void setting() {
 				yd = 6;
 			}
 			gotoxy(xd - 15, yd);
+			//tao mui ten moi
 			cout << p1;
 			gotoxy(xd + 6, yd);
 			cout << p2;
@@ -1121,6 +1132,7 @@ void headsnake() {
 			cout << " ";
 			gotoxy(xd + 6, yd);
 			cout << " ";
+			//xoa mui ten cu
 			phim = _getch();
 			if (phim == 72) {
 				yd -= 2;
@@ -1136,6 +1148,7 @@ void headsnake() {
 				yd = 6;
 			}
 			gotoxy(xd - 15, yd);
+			//tao mui ten moi
 			cout << p1;
 			gotoxy(xd + 6, yd);
 			cout << p2;
@@ -1184,6 +1197,7 @@ void mid() {
 			cout << " ";
 			gotoxy(xd + 6, yd);
 			cout << " ";
+			//xoa mui ten cu
 			phim = _getch();
 			if (phim == 72) {
 				yd -= 2;
@@ -1199,6 +1213,7 @@ void mid() {
 				yd = 6;
 			}
 			gotoxy(xd - 15, yd);
+			//tao mui ten moi
 			cout << p1;
 			gotoxy(xd + 6, yd);
 			cout << p2;
@@ -1254,6 +1269,7 @@ void background() {
 			cout << " ";
 			gotoxy(xd + 6, yd);
 			cout << " ";
+			//xoa mui ten cu
 			phim = _getch();
 			if (phim == 72) {
 				yd -= 2;
@@ -1269,6 +1285,7 @@ void background() {
 				yd = 6;
 			}
 			gotoxy(xd - 15, yd);
+			//tao mui ten moi
 			cout << p1;
 			gotoxy(xd + 6, yd);
 			cout << p2;
@@ -1312,6 +1329,7 @@ void mode() {
 			cout << " ";
 			gotoxy(xd + 6, yd);
 			cout << " ";
+			//xoa mui ten cu
 			phim = _getch();
 			if (phim == 72) {
 				yd -= 2;
@@ -1327,6 +1345,7 @@ void mode() {
 				yd = 6;
 			}
 			gotoxy(xd - 15, yd);
+			//tao mui ten moi
 			cout << p1;
 			gotoxy(xd + 6, yd);
 			cout << p2;
