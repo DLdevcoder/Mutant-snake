@@ -45,4 +45,6 @@ IV. Nguồn tham khảo
 
 Thư viện:  https://paste.ubuntu.com/p/tqr239C4df/
 
-Youtube
+Âm thanh :https://www.youtube.com/watch?v=SO18eVlFrw8
+
+Hỗ trợ : Chat gpt
