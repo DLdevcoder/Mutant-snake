@@ -1,6 +1,6 @@
 I.Mô tả chung về trò chơi
 
-Thể loại:Arcade( trò chơi điện tử giải trí)
+Thể loại: Arcade, Casual
 
 Hãy tưởng tượng bạn bị cuốn vào một thế giới đầy mê hoặc, nơi bạn là một con rắn bị đột biến đầy hung dữ, đang săn lùng những con mồi để trở nên mạnh mẽ và khổng lồ hơn bao giờ hết. Đây không chỉ là một trò chơi, mà là một cuộc phiêu lưu không ngừng, nơi tốc độ và sự khôn ngoan là chìa khóa cho sự sống còn.
 
