@@ -54,6 +54,6 @@ V. Cách tải
 
 B1: Tải các file đã được đăng
 
-B2: cài đặt các đường dẫn liên kết các file đã tải với nhau
+B2: Cài đặt các đường dẫn liên kết các file đã tải với nhau
 
 B3: Chạy chương trình sau khi đã thiết lập xong.
