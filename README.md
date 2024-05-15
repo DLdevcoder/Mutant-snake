@@ -53,6 +53,8 @@ https://www.geeksforgeeks.org/snake-code-cpp/
 
 https://learn.microsoft.com/en-us/previous-versions/dd743680(v=vs.85)
 
+Chat gpt
+
 
 V. Cách tải
 
