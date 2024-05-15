@@ -47,7 +47,11 @@ Thư viện:  https://paste.ubuntu.com/p/tqr239C4df/
 
 Âm thanh :https://www.youtube.com/watch?v=SO18eVlFrw8
 
-Hỗ trợ : Chat gpt
+Các nguồn tham khảo khác:
+
+https://www.geeksforgeeks.org/snake-code-cpp/
+
+https://learn.microsoft.com/en-us/previous-versions/dd743680(v=vs.85)
 
 
 V. Cách tải
