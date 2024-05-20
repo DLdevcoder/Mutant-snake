@@ -64,7 +64,7 @@ B2: Cài đặt các đường dẫn liên kết các file đã tải với nhau
 
 B3: Chạy chương trình sau khi đã thiết lập xong.
 
-VII.Một số hình ảnh trong game
+VI.Một số hình ảnh trong game
 
 ![image](https://github.com/DLdevcoder/Mutant-snake/assets/169598257/b540e7d1-f163-4069-a088-3f65c85f5a16)
 
